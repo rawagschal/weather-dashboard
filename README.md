@@ -24,3 +24,5 @@ THEN I am again presented with current and future conditions for that city
 ```
 ## Deployed Application
 [Weather-Dashboard](https://rawagschal.github.io/weather-dashboard/) 
+
+As of 09/13/20 at 11:42pm ![firstDeployment](./assets/images/firstDeployment.png)
