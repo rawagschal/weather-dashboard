@@ -1,5 +1,5 @@
 # Weather Dashboard
-A weather dashboard that runs in the browser featuring dynamically updated HTML and CSS using [OpenWeatherAPI] (https://openweathermap.org/). 
+A weather dashboard that runs in the browser featuring dynamically updated HTML and CSS using [OpenWeatherAPI](https://openweathermap.org/). 
 
 ## User Story
 
